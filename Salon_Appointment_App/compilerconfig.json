@@ -1,0 +1,242 @@
+﻿[
+  {
+    "outputFile": "Scripts/bootstrap/_badge.css",
+    "inputFile": "Scripts/bootstrap/_badge.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_alert.css",
+    "inputFile": "Scripts/bootstrap/_alert.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_alert.css",
+    "inputFile": "Scripts/bootstrap/mixins/_alert.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_badge.css",
+    "inputFile": "Scripts/bootstrap/mixins/_badge.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_background-variant.css",
+    "inputFile": "Scripts/bootstrap/mixins/_background-variant.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_border-radius.css",
+    "inputFile": "Scripts/bootstrap/mixins/_border-radius.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_box-shadow.css",
+    "inputFile": "Scripts/bootstrap/mixins/_box-shadow.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_breakpoints.css",
+    "inputFile": "Scripts/bootstrap/mixins/_breakpoints.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_buttons.css",
+    "inputFile": "Scripts/bootstrap/mixins/_buttons.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_caret.css",
+    "inputFile": "Scripts/bootstrap/mixins/_caret.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_clearfix.css",
+    "inputFile": "Scripts/bootstrap/mixins/_clearfix.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_float.css",
+    "inputFile": "Scripts/bootstrap/mixins/_float.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_forms.css",
+    "inputFile": "Scripts/bootstrap/mixins/_forms.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_gradients.css",
+    "inputFile": "Scripts/bootstrap/mixins/_gradients.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_grid-framework.css",
+    "inputFile": "Scripts/bootstrap/mixins/_grid-framework.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_grid.css",
+    "inputFile": "Scripts/bootstrap/mixins/_grid.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_hover.css",
+    "inputFile": "Scripts/bootstrap/mixins/_hover.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_image.css",
+    "inputFile": "Scripts/bootstrap/mixins/_image.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_list-group.css",
+    "inputFile": "Scripts/bootstrap/mixins/_list-group.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_lists.css",
+    "inputFile": "Scripts/bootstrap/mixins/_lists.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_nav-divider.css",
+    "inputFile": "Scripts/bootstrap/mixins/_nav-divider.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_pagination.css",
+    "inputFile": "Scripts/bootstrap/mixins/_pagination.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_reset-text.css",
+    "inputFile": "Scripts/bootstrap/mixins/_reset-text.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_resize.css",
+    "inputFile": "Scripts/bootstrap/mixins/_resize.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_screen-reader.css",
+    "inputFile": "Scripts/bootstrap/mixins/_screen-reader.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_size.css",
+    "inputFile": "Scripts/bootstrap/mixins/_size.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_table-row.css",
+    "inputFile": "Scripts/bootstrap/mixins/_table-row.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_text-emphasis.css",
+    "inputFile": "Scripts/bootstrap/mixins/_text-emphasis.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_text-hide.css",
+    "inputFile": "Scripts/bootstrap/mixins/_text-hide.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_text-truncate.css",
+    "inputFile": "Scripts/bootstrap/mixins/_text-truncate.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_transition.css",
+    "inputFile": "Scripts/bootstrap/mixins/_transition.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/mixins/_visibility.css",
+    "inputFile": "Scripts/bootstrap/mixins/_visibility.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_align.css",
+    "inputFile": "Scripts/bootstrap/utilities/_align.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_background.css",
+    "inputFile": "Scripts/bootstrap/utilities/_background.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_borders.css",
+    "inputFile": "Scripts/bootstrap/utilities/_borders.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_clearfix.css",
+    "inputFile": "Scripts/bootstrap/utilities/_clearfix.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_display.css",
+    "inputFile": "Scripts/bootstrap/utilities/_display.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_embed.css",
+    "inputFile": "Scripts/bootstrap/utilities/_embed.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_flex.css",
+    "inputFile": "Scripts/bootstrap/utilities/_flex.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_float.css",
+    "inputFile": "Scripts/bootstrap/utilities/_float.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_position.css",
+    "inputFile": "Scripts/bootstrap/utilities/_position.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_screenreaders.css",
+    "inputFile": "Scripts/bootstrap/utilities/_screenreaders.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_shadows.css",
+    "inputFile": "Scripts/bootstrap/utilities/_shadows.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_sizing.css",
+    "inputFile": "Scripts/bootstrap/utilities/_sizing.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_spacing.css",
+    "inputFile": "Scripts/bootstrap/utilities/_spacing.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_text.css",
+    "inputFile": "Scripts/bootstrap/utilities/_text.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/utilities/_visibility.css",
+    "inputFile": "Scripts/bootstrap/utilities/_visibility.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_breadcrumb.css",
+    "inputFile": "Scripts/bootstrap/_breadcrumb.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_button-group.css",
+    "inputFile": "Scripts/bootstrap/_button-group.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_buttons.css",
+    "inputFile": "Scripts/bootstrap/_buttons.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_card.css",
+    "inputFile": "Scripts/bootstrap/_card.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_carousel.css",
+    "inputFile": "Scripts/bootstrap/_carousel.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_close.css",
+    "inputFile": "Scripts/bootstrap/_close.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_code.css",
+    "inputFile": "Scripts/bootstrap/_code.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/style.css",
+    "inputFile": "Scripts/bootstrap/style.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/bootstrap.css",
+    "inputFile": "Scripts/bootstrap/bootstrap.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/bootstrap-reboot.css",
+    "inputFile": "Scripts/bootstrap/bootstrap-reboot.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/bootstrap-grid.css",
+    "inputFile": "Scripts/bootstrap/bootstrap-grid.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_variables.css",
+    "inputFile": "Scripts/bootstrap/_variables.scss"
+  },
+  {
+    "outputFile": "Scripts/bootstrap/_site-blocks.css",
+    "inputFile": "Scripts/bootstrap/_site-blocks.scss"
+  }
+]

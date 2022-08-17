@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9abdf2f8d5b24b958f2cf14382eec220" Name="Diagram1">
+        <EntityTypeShape EntityType="SalonAppModel.Role" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalonAppModel.UserRolesMapping" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalonAppModel.User" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="SalonAppModel.FK__UserRoles__RoleI__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="SalonAppModel.FK__UserRoles__RoleI__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="SalonAppModel.FK__UserRoles__UserI__29572725" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="SalonAppModel.ServiceCategory" Width="1.5" PointX="5.375" PointY="1.25" />
+        <EntityTypeShape EntityType="SalonAppModel.Service" Width="1.5" PointX="7.625" PointY="0.875" />
+        <EntityTypeShape EntityType="SalonAppModel.UserDetail" Width="1.5" PointX="3" PointY="4.875" />
+        <AssociationConnector Association="SalonAppModel.FK__Services__Servic__30F848ED" />
+        <AssociationConnector Association="SalonAppModel.FK__UserDetai__UserI__2C3393D0" />
+        <EntityTypeShape EntityType="SalonAppModel.BookingDetail" Width="1.5" PointX="9.875" PointY="2.875" />
+        <AssociationConnector Association="SalonAppModel.FK__BookingDe__Servi__34C8D9D1" />
+        <AssociationConnector Association="SalonAppModel.FK__BookingDe__UserI__33D4B598" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
